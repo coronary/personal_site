@@ -1,0 +1,20 @@
+I wanted to understand the gleam language more completely and I thought learning about the [compiler](https://github.com/gleam-lang/gleam/tree/main/docs/compiler) would help with that but I realized that my compilers class in college was so dry that I effectively retained none of it. so I thought I should start from the basics and work my way back up. is this an effective use of my time when I'm currently in crisis about my lack of job opportunities? who knows and who cares, the longer I've lived the more clear it's become that almost nothing comes easily to me and I only succeed by putting in more hours and more effort than my peers to get to the same level of competency so that's what I'll do from now on. learn everything the hard way: start low and understand things so completely that there's no room for misunderstandings and I don't have to make logical leaps when I'm problem solving.
+
+to that end I looked into some resources and found [this list](https://ghaiklor.github.io/awesome-internals/) of resources on learning internals and from that found this open course on building a modern computer system from the ground up called [From nand to tetris](https://www.nand2tetris.org/course). so now, in this moment of mania and an empty stomach, I want to commit to completing this course in full and hoping that it'll help me be more confident in my computer abilities.
+
+## the format
+![[nand_overview.png]]it seems like the sections are broken up into the sections "project, slides, and textbook". ironically it feels like I'll have to use everything in reverse order so I can work through the text and slides in tandem and then tackle the project afterwards.
+
+I don't want to burn out on this so I think I need to be meticulous and make [[SMART goals]] so I can chunk through this consistently. This first one will be a little tough because I have no idea how long it'll take me to get through the material but I'll try my best and then recalculate from there.
+
+## S
+finish a project section as defined in the image above
+## M
+I'll have read and taken notes on the section chapter and completed the exercise
+## A
+I will spend at least an hour and a half a day starting on Friday November 28th. this will just be the baseline and I hope to do more than that most days.
+## R
+this is within my abilities because it's intended for people starting out learning computers from the ground up and I already have a decent amount of computer experience.
+## T
+I don't want to underestimate this and come away disappointed that I couldn't finish the first step so I'm gonna set this at an extremely generous three weeks to complete. following these steps I will finish the first project section by December 20th.
+
